@@ -1,0 +1,179 @@
+{
+    "data": [
+      {
+        "ourQualities": [
+          {
+            "id": 1,
+            "image": "./quality_food.svg",
+            "title": "QUALITY FOOD",
+            "description": "We source the freshest ingredients and ensure that every dish meets the highest standards of quality, from the kitchen to your table."
+          },
+          {
+            "id": 2,
+            "image": "./super_taste.svg",
+            "title": "SUPER TASTE",
+            "description": "Our chefs craft dishes with the perfect balance of flavors, making every bite a delightful experience that leaves you craving more."
+          },
+          {
+            "id": 3,
+            "image": "./fast_delivery.svg",
+            "title": "FAST DELIVERY",
+            "description": "Enjoy our delicious meals at your convenience with our reliable and speedy delivery service, ensuring your food arrives fresh and hot."
+          }
+        ],
+        "dishes": [
+          {
+            "id": 1,
+            "image": "./dinner1.jpg",
+            "title": "CHILLI PANNER",
+            "category": "Dinner"
+          },
+          {
+            "id": 2,
+            "image": "./dinner2.jpg",
+            "title": "BURGER",
+            "category": "Fast Food"
+          },
+          {
+            "id": 3,
+            "image": "./dinner4.jpg",
+            "title": "GRILLED SANDWITCH",
+            "category": "Breakfast"
+          },
+          {
+            "id": 4,
+            "image": "./dinner3.png",
+            "title": "STUFFED STRAWBERRY",
+            "category": "Dinner"
+          },
+          {
+            "id": 5,
+            "image": "./momos.jpg",
+            "title": " Momos",
+            "category": "Fast Food"
+          },
+          {
+            "id": 6,
+            "image": "./dinner6.jpg",
+            "title": "Veg Thalli",
+            "category": "Dinner"
+          },
+          {
+            "id": 7,
+            "image": "./dinner5.png",
+            "title": "ITALIAN SPAGHETTI",
+            "category": "Dinner"
+          },
+          {
+            "id": 8,
+            "image": "./shakes.jpg",
+            "title": "Shakes",
+            "category": "Drinks"
+          }
+        ],
+        "team": [
+          {
+            "id": 1,
+            "image": "./team_member_1.png",
+            "name": "JOHNATHAN TYLER",
+            "designation": "Founder & Head Chef"
+          },
+          {
+            "id": 2,
+            "image": "./team_member_2.png",
+            "name": "WADE WARREN",
+            "designation": "Sous Chef"
+          },
+          {
+            "id": 3,
+            "image": "./team_member_3.png",
+            "name": "JHON DOE",
+            "designation": "Fast Food Chef"
+          },
+          {
+            "id": 4,
+            "image": "./team_member_4.png",
+            "name": "ALEX COAL",
+            "designation": "Senior Chef"
+          }
+        ],
+        "testimonials": [
+          {
+            "id": 1,
+            "image": "./review1.png",
+            "description": "The food here is amazing! Everything is always fresh and delicious. The staff is also very friendly and accommodating. Highly recommend!",
+            "rating": 4,
+            "userName": "Jane Cooper"
+          },
+          {
+            "id": 2,
+            "image": "./review2.png",
+            "description": "A wonderful dining experience! The dishes were flavorful and beautifully presented. The service was excellent, and the ambiance was perfect for a night out.",
+            "rating": 4.5,
+            "userName": "Esther Howard"
+          },
+          {
+            "id": 3,
+            "image": "./review3.png",
+            "description": "Best restaurant in town! I love coming here with my family. The menu has something for everyone, and every meal we've had has been outstanding.",
+            "rating": 5,
+            "userName": "Guy Hawkins"
+          }
+        ],
+        "who_we_are": [
+          {
+            "id": 1,
+            "number": "14",
+            "title": "Restaurants",
+            "description": "We operate 14 locations, providing our top-quality dining experience to food lovers everywhere."
+          },
+          {
+            "id": 2,
+            "number": "20",
+            "title": "Chefs In Kitchen",
+            "description": "Our skilled team of 20 chefs bring culinary excellence to every dish we serve."
+          },
+          {
+            "id": 3,
+            "number": "08",
+            "title": "Years Of Experience",
+            "description": "With 8 years in the industry, we have honed our skills to deliver the best in food and service."
+          },
+          {
+            "id": 4,
+            "number": "200",
+            "title": "Food Dishes",
+            "description": "Our diverse menu offers over 200 different dishes, ensuring there's something for every palate."
+          }
+        ],
+        "navbarLinks": [
+          {
+            "id": 1,
+            "title": "HOME",
+            "link": "heroSection"
+          },
+          {
+            "id": 2,
+            "title": "ABOUT US",
+            "link": "about"
+          },
+          {
+            "id": 3,
+            "title": "SERVICES",
+            "link": "qualities"
+          },
+          {
+            "id": 4,
+            "title": "TEAM",
+            "link": "team"
+          },
+          {
+            "id": 5,
+            "title": "RESERVATION",
+            "link": "reservation"
+          }
+        ]
+      }
+    ]
+  }
+  
