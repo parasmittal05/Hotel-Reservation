@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { HiOutlineArrowNarrowRight } from "react-icons/hi";
 
-const NotFound = () => {
+const NOTFOUND = () => {
   return (
     <>
       <section className="notFound">
@@ -22,4 +22,4 @@ const NotFound = () => {
   );
 };
 
-export default NotFound;
+export default NOTFOUND;
