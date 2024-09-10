@@ -4,7 +4,7 @@ import { Toaster } from 'react-hot-toast';
 import './App.css';
 import Home from './Pages/Home';
 import Success from './Pages/Success';
-import NOTFOUND from './Pages/NOTFOUND';
+import NOTFOUND from './Pages/NOTFOUND.jsx';
 
 const App = () => {
   return (
